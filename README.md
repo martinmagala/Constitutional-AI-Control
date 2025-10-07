@@ -1,5 +1,4 @@
 # Constitutional AI Control: A Framework for Deterministic Human-AI Interaction
----
 
 ## Abstract
 
@@ -13,8 +12,6 @@ This repository presents findings from an extensive empirical analysis of prompt
 - Accountability and authority must be architecturally co-located
 
 This work contributes to the emerging field of AI governance by providing a systematic framework for evaluating prompt security and establishing foundational principles for human-AI interaction design.
-
----
 
 ## 1. Introduction
 
