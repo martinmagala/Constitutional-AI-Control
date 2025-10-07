@@ -543,19 +543,19 @@ Develop comprehensive test suites that attempt to trigger all known failure mode
 
 ### 7.3 Future Work
 
-**Short-term (6-12 months):**
+**Short-term:**
 - Empirical validation through deployment studies
 - Development of automated prompt security assessment tools
 - Creation of prompt pattern libraries for common use cases
 - Comparative analysis across different LLM providers
 
-**Medium-term (1-2 years):**
+**Medium-term:**
 - Formal verification methods for prompt security properties
 - Standardization efforts for prompt security frameworks
 - Integration with enterprise AI governance platforms
 - Professional certification programs for prompt security engineering
 
-**Long-term (2-5 years):**
+**Long-term:**
 - Regulatory framework development based on research findings
 - Industry-wide adoption of constitutional control principles
 - Evolution of AI architectures to natively support deterministic control
